@@ -8,7 +8,7 @@ background: https://cover.sli.dev
 title: Kubernetes
 info: |
   ## Slidev Starter Template
-  ## Presentation slides for developers.
+  Presentation slides 
 
   Learn more at [Sli.dev](https://sli.dev)
 # apply UnoCSS classes to the current slide
