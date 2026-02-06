@@ -23,7 +23,7 @@ title: Welcome to Slidev
 mdc: true
 ---
 
-# Welcome to Slidev
+# Kubernetes
 
 Presentation slides for developers
 
