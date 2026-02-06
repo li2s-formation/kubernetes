@@ -8,9 +8,16 @@
     "export": "slidev export"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@slidev/cli": "^52.11.5",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "vue": "^3.5.27"
+=======
+    "@slidev/cli": "^52.3.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.22"
+>>>>>>> a502a3aef5357f9bc8165111944f4eed88d61790
   }
 }
